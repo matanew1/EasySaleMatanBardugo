@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasySaleMatanBardugo</string>
+    <string name="price">price</string>
+    <string name="title">Title</string>
+    <string name="img">img</string>
+    <string name="description">description</string>
+    <string name="category">category</string>
+    <string name="add_product">add product</string>
+    <string name="id">id</string>
+</resources>
